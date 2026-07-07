@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings>
+	<!-- App -->
+	<string key="app.name">Quill</string>
+
+	<!-- About -->
+	<string key="about.version">Version %1</string>
+	<string key="about.tagline">Rich-text snippets, pasted anywhere with a keystroke.</string>
+	<string key="about.sponsorGitHub">Sponsor on GitHub</string>
+	<string key="about.sponsorGitHubSubtitle">Support ongoing development</string>
+	<string key="about.buyCoffee">Buy Me a Coffee</string>
+	<string key="about.buyCoffeeSubtitle">A one-time thank you</string>
+	<string key="about.github">GitHub</string>
+	<string key="about.translations">Translations</string>
+	<string key="about.reportIssue">Report an Issue</string>
+
+	<!-- Updates -->
+	<string key="update.checking">Checking for updates…</string>
+	<string key="update.available">Update available</string>
+	<string key="update.download">Download</string>
+	<string key="update.upToDate">You're up to date</string>
+	<string key="update.check">Check for Updates</string>
+
+	<!-- Editor -->
+	<string key="editor.bold">Bold</string>
+	<string key="editor.italic">Italic</string>
+	<string key="editor.underline">Underline</string>
+	<string key="editor.bulletList">Bulleted list</string>
+	<string key="editor.numberedList">Numbered list</string>
+	<string key="editor.textColor">Text color</string>
+	<string key="editor.insertImage">Insert image</string>
+	<string key="editor.clearFormatting">Clear formatting</string>
+	<string key="editor.titlePlaceholder">Snippet title</string>
+	<string key="editor.abbreviationPlaceholder">;abbr</string>
+	<string key="editor.abbreviationConflict">Another snippet already uses this abbreviation</string>
+	<string key="editor.abbreviationHelp">Type this to expand the snippet</string>
+	<string key="editor.expandIn">Expand in</string>
+	<string key="editor.allApps">All apps</string>
+	<string key="editor.limitToApps">Limit to apps</string>
+	<string key="editor.limitToAppsPro">Limit to apps (Pro)</string>
+	<string key="editor.addApp">Add app</string>
+	<string key="editor.runningApps">Running apps</string>
+	<string key="editor.browseApps">Choose from Applications…</string>
+
+	<!-- Library -->
+	<string key="library.allSnippets">All Snippets</string>
+	<string key="library.recent">Recent</string>
+	<string key="library.groups">Groups</string>
+	<string key="library.deleteGroup">Delete Group</string>
+	<string key="library.renameGroup">Rename</string>
+	<string key="library.newGroup">New Group</string>
+	<string key="library.delete">Delete</string>
+	<string key="library.duplicate">Duplicate</string>
+	<string key="library.moveToGroup">Move to Group…</string>
+	<string key="library.moveToGroupTitle">Move to Group</string>
+	<string key="library.noGroup">No Group</string>
+	<string key="library.searchGroups">Search groups</string>
+	<string key="library.cancel">Cancel</string>
+	<string key="library.searchPrompt">Search snippets</string>
+	<string key="library.newSnippet">New Snippet</string>
+	<string key="library.emptyDetailTitle">No snippet selected</string>
+	<string key="library.emptyDetailBody">Select a snippet to edit, or create a new one to get started.</string>
+
+	<!-- Hot-key recorder -->
+	<string key="recorder.pressKeys">Press keys…</string>
+	<string key="recorder.recordShortcut">Record shortcut</string>
+	<string key="recorder.clear">Clear shortcut</string>
+
+	<!-- Onboarding -->
+	<string key="onboarding.title">Welcome to Quill</string>
+	<string key="onboarding.subtitle">Quill needs two permissions to expand snippets in any app.</string>
+	<string key="onboarding.accessibilityTitle">Accessibility</string>
+	<string key="onboarding.accessibilityBody">Lets Quill paste your expanded snippet into the app you're typing in.</string>
+	<string key="onboarding.inputMonitoringTitle">Input Monitoring</string>
+	<string key="onboarding.inputMonitoringBody">Lets Quill detect the abbreviations you type. Without it, hotkey triggers still work.</string>
+	<string key="onboarding.relaunch">Relaunch Quill</string>
+	<string key="onboarding.grant">Grant…</string>
+	<string key="onboarding.openSettings">Open System Settings</string>
+
+	<!-- Settings tabs -->
+	<string key="settings.tab.general">General</string>
+	<string key="settings.tab.hotkeys">Hotkeys</string>
+	<string key="settings.tab.license">License</string>
+	<string key="settings.tab.about">About</string>
+
+	<!-- General -->
+	<string key="general.behavior">Behavior</string>
+	<string key="general.launchAtLogin">Launch at login</string>
+	<string key="general.expansionEnabled">Enable snippet expansion</string>
+	<string key="general.appearance">Appearance</string>
+	<string key="general.theme">Theme</string>
+	<string key="general.themeSystem">System</string>
+	<string key="general.themeLight">Light</string>
+	<string key="general.themeDark">Dark</string>
+	<string key="general.language">Language</string>
+	<string key="general.languageSystem">System</string>
+
+	<!-- Hotkeys -->
+	<string key="hotkeys.global">Global Hotkeys</string>
+	<string key="hotkeys.quickSearch">Quick Search</string>
+	<string key="hotkeys.toggleExpansion">Toggle expansion</string>
+	<string key="hotkeys.perSnippet">Per-Snippet Hotkeys</string>
+	<string key="hotkeys.none">No snippets have a hotkey yet.</string>
+	<string key="hotkeys.warning">A hotkey couldn't be registered — it may be in use by another app.</string>
+
+	<!-- License -->
+	<string key="license.statusSection">License Status</string>
+	<string key="license.statusLabel">Status</string>
+	<string key="license.proActive">Pro active</string>
+	<string key="license.free">Free</string>
+	<string key="license.activateSection">Activate</string>
+	<string key="license.keyPlaceholder">Paste your license key</string>
+	<string key="license.activate">Activate</string>
+	<string key="license.activateHint">Activates Pro on this Mac (up to 3 devices).</string>
+	<string key="license.proFeaturesSection">Quill Pro — $12 one-time</string>
+	<string key="license.featureTokens">Dynamic tokens (date, clipboard, cursor, nested)</string>
+	<string key="license.featureFillIns">Fill-in form fields</string>
+	<string key="license.featureAppSpecific">App-specific expansion</string>
+	<string key="license.featureSync">iCloud sync across Macs</string>
+	<string key="license.proCTA">Get Quill Pro</string>
+	<string key="license.manageSection">Manage</string>
+	<string key="license.deactivate">Deactivate this Mac</string>
+	<string key="license.deactivateHint">Frees a device slot so you can activate elsewhere.</string>
+	<string key="license.noActiveLicense">No active license found on this Mac.</string>
+	<string key="license.activatedSuccess">Pro activated. Thank you!</string>
+
+	<!-- Quick Search -->
+	<string key="quicksearch.placeholder">Search snippets to paste…</string>
+
+	<!-- Menu bar -->
+	<string key="menu.expansionEnabled">Expansion enabled</string>
+	<string key="menu.snippetCount">%1 snippets</string>
+	<string key="menu.openQuill">Open Quill</string>
+	<string key="menu.quickSearch">Quick Search…</string>
+	<string key="menu.quit">Quit Quill</string>
+
+	<!-- Sync (Pro) -->
+	<string key="sync.section">iCloud Sync</string>
+	<string key="sync.icloud">Sync snippets across my Macs</string>
+	<string key="sync.unavailable">iCloud Drive is off. Turn it on in System Settings → Apple ID → iCloud → iCloud Drive to sync.</string>
+	<string key="sync.active">Syncing via iCloud Drive</string>
+	<string key="sync.proOnly">iCloud sync is a Pro feature.</string>
+
+	<!-- Upsell -->
+	<string key="upsell.unlockPro">Unlock Pro</string>
+	<string key="upsell.appSpecificTitle">App-specific expansion</string>
+	<string key="upsell.appSpecificMessage">Choose the apps a snippet is allowed to expand in.</string>
+</strings>
