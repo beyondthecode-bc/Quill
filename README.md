@@ -11,7 +11,7 @@
   <a href="https://github.com/beyondthecode-bc/Quill/releases/latest"><img src="https://img.shields.io/github/v/release/beyondthecode-bc/Quill?style=flat-square&label=Download&color=blue" alt="Latest Release"></a>
   <a href="https://github.com/beyondthecode-bc/Quill/releases/latest"><img src="https://img.shields.io/github/downloads/beyondthecode-bc/Quill/total?style=flat-square&label=Downloads&color=brightgreen" alt="Downloads"></a>
   <a href="https://github.com/beyondthecode-bc/Quill/stargazers"><img src="https://img.shields.io/github/stars/beyondthecode-bc/Quill?style=flat-square" alt="Stars"></a>
-  <img src="https://img.shields.io/github/license/beyondthecode-bc/Quill?style=flat-square" alt="License">
+  <img src="https://img.shields.io/github/license/beyondthecode-bc/Quill?style=flat-square&cacheSeconds=300" alt="License">
 </p>
 
 <p align="center">
