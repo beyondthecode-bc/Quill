@@ -2,25 +2,53 @@
   <img src="images/banner.png" alt="Quill — rich-text snippets, pasted anywhere with a keystroke" width="100%">
 </p>
 
-# Quill
+<p align="center">
+  <strong>Rich-text snippets, pasted anywhere with a keystroke</strong><br>
+  Type a short abbreviation or press a hotkey — Quill pastes back the whole thing, fully formatted: bold, colors, lists, fonts, sizes, even images.
+</p>
+
+<p align="center">
+  <a href="https://github.com/beyondthecode-bc/Quill/releases/latest"><img src="https://img.shields.io/github/v/release/beyondthecode-bc/Quill?style=flat-square&label=Download&color=blue" alt="Latest Release"></a>
+  <a href="https://github.com/beyondthecode-bc/Quill/releases/latest"><img src="https://img.shields.io/github/downloads/beyondthecode-bc/Quill/total?style=flat-square&label=Downloads&color=brightgreen" alt="Downloads"></a>
+  <a href="https://github.com/beyondthecode-bc/Quill/stargazers"><img src="https://img.shields.io/github/stars/beyondthecode-bc/Quill?style=flat-square" alt="Stars"></a>
+  <img src="https://img.shields.io/github/license/beyondthecode-bc/Quill?style=flat-square" alt="License">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/platform-macOS%2014%2B-lightgrey?style=flat-square&logo=apple" alt="Platform">
+  <img src="https://img.shields.io/badge/chip-Apple%20Silicon%20%2B%20Intel-orange?style=flat-square&logo=apple" alt="Apple Silicon + Intel">
+  <img src="https://img.shields.io/badge/swift-6.0-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/SwiftUI-native-007AFF?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI">
+</p>
+
+<p align="center">
+  <a href="https://www.virustotal.com/gui/file/475caf21a175e534a3246d542ec7b6f91fe8c0ef7a25f1645d64fb6873555fec"><img src="https://img.shields.io/badge/VirusTotal-0%2F66%20Clean-brightgreen?style=flat-square&logo=virustotal&logoColor=white" alt="VirusTotal"></a>
+  <a href="https://github.com/sponsors/beyondthecode-bc"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=flat-square&logo=github" alt="GitHub Sponsors"></a>
+  <a href="https://www.buymeacoffee.com/BEYONDTHECODE"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"></a>
+</p>
+
+<p align="center">
+  Built with Swift and SwiftUI. No Electron, no web views, no bloat.
+</p>
+
+---
 
 > [!NOTE]
 > This is a **community hub**, not a source repository. It hosts Quill's
 > signed release downloads, translations, and issue tracker. The app's source
 > code is closed and is never published here.
 
-**Rich-text snippets, pasted anywhere with a keystroke.**
-
 Quill is a native macOS snippet expander for **rich, formatted** content —
-bold/italic/underline, color, lists, and embedded images (email signatures) —
-triggered by a typed abbreviation or a global hotkey and pasted into any app.
-It's TextExpander-category power at a **one-time price**, with no subscription.
+bold/italic/underline, color, fonts, lists, and embedded images (email
+signatures) — triggered by a typed abbreviation or a global hotkey and pasted
+into any app. It's TextExpander-category power at a **one-time price**, with no
+subscription.
 
 ## Features
 
-- **Rich formatting** — bold, italic, underline, text color, bullet & numbered
-  lists, and embedded images (like an email signature), pasted straight into any
-  app.
+- **Rich formatting** — bold, italic, underline, text color, **font family &
+  size**, bullet & numbered lists, and embedded images (like an email
+  signature), pasted straight into any app.
 - **Two triggers per snippet** — a typed abbreviation (e.g. `;sig`) and/or a
   global hotkey.
 - **Quick-Search palette** — a Spotlight-style palette to find and paste any
