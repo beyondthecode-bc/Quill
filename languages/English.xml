@@ -112,7 +112,7 @@
 	<string key="license.keyPlaceholder">Paste your license key</string>
 	<string key="license.activate">Activate</string>
 	<string key="license.activateHint">Activates Pro on this Mac (up to 3 devices).</string>
-	<string key="license.proFeaturesSection">Quill Pro — $12 one-time</string>
+	<string key="license.proFeaturesSection">Quill Pro — $9.99 one-time</string>
 	<string key="license.featureTokens">Dynamic tokens (date, clipboard, cursor, nested)</string>
 	<string key="license.featureFillIns">Fill-in form fields</string>
 	<string key="license.featureAppSpecific">App-specific expansion</string>
