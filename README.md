@@ -57,7 +57,7 @@ subscription.
   wall.
 
 Free to download and fully functional — **rich snippets, both triggers, and the
-Quick-Search palette, with no snippet cap.** **Quill Pro ($12 one-time)**
+Quick-Search palette, with no snippet cap.** **Quill Pro ($9.99 one-time)**
 unlocks:
 
 - **Dynamic tokens** — `%date%` math, `%time%`, `%clipboard%`, `%cursor%`
@@ -92,7 +92,7 @@ move `Quill.app` to Applications, and launch.
 
 ## Get Quill Pro
 
-[Unlock Quill Pro — $12 one-time](https://beyondthecode.gumroad.com/l/quill-pro).
+[Unlock Quill Pro — $9.99 one-time](https://beyondthecode.gumroad.com/l/quill-pro).
 Enter your license key in **Settings → License**. One purchase activates up to
 **3 Macs**; deactivate any Mac to free a slot.
 
