@@ -1,10 +1,10 @@
 # Privacy Policy for Quill
 
-**Effective date: August 12, 2026**
+**Effective date: August 20, 2026**
 
 Quill is designed to keep your information under your control.
 
-## Data collection
+## Data Not Collected
 
 The Mac App Store version of Quill does not collect, transmit, sell, or share personal data. It contains no analytics, advertising, tracking, developer account system, license service, or external updater.
 
@@ -18,7 +18,7 @@ If you choose to enable iCloud sync, Quill stores a copy of your library in your
 
 ## Permissions
 
-Quill requests Input Monitoring so it can detect the snippet abbreviations you create. It requests Paste Permission through Apple's public CoreGraphics PostEvent authorization so it can paste a selected expansion into the active app. Quill does not inspect another app's interface or transmit monitored keystrokes.
+Build 4 requests neither Input Monitoring nor Accessibility. It does not observe or synthesize keystrokes. Quill copies a selected snippet to the system pasteboard; you choose where and when to paste it with Command-V.
 
 ## Network access
 
@@ -31,3 +31,4 @@ If Quill's data practices change, this policy will be updated before the changed
 ## Support
 
 For privacy questions or support, open an issue at [github.com/beyondthecode-bc/Quill/issues](https://github.com/beyondthecode-bc/Quill/issues).
+
