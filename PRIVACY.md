@@ -31,4 +31,3 @@ If Quill's data practices change, this policy will be updated before the changed
 ## Support
 
 For privacy questions or support, open an issue at [github.com/beyondthecode-bc/Quill/issues](https://github.com/beyondthecode-bc/Quill/issues).
-
